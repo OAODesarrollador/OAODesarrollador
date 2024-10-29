@@ -13,7 +13,7 @@
 ## 🚀 Tecnologías y Herramientas
 - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Svelte
 - **Backend:** Node.js, Express, Python, SQL, NoSQL, Postman
-- **Bases de Datos:** PostgreSQL, MongoDB
+- **Bases de Datos:** PostgreSQL, MongoDB, SQL
 - **Salesforce:** LWC, Visualforce, APEX
 - **Otros:** Git/GitHub para control de versiones, Docker para la contenedorización de aplicaciones, Prisma para ORM
 
