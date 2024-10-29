@@ -1,8 +1,8 @@
-<div align="center">
+<div align="Left">
 
-<img src="https://user-images.githubusercontent.com/123456789/demo-image.png" alt="Developer Logo" width="200" />
-<h1>OAODesarrollador</h1>
-<h4>Oscar Alejandro Ortiz</h4></br>
+<img src="/iconos/ideogram (5).jpeg" alt="Developer Logo" width="150"/>
+<h1>OAODesarrollador </h1>
+<h4>Oscar Alejandro Ortiz</h4>
 </div>
 
 ## Bienvenido a mi repositorio 👋
