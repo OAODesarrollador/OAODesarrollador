@@ -18,8 +18,9 @@
 - **Otros:** Git/GitHub para control de versiones, Docker para la contenedorización de aplicaciones, Prisma para ORM
 
 ## 🌟 Proyectos Destacados
-- **[Gestión de Tareas para Pizzería - En proceso](https://github.com/OAODesarrollador/gestor-tareas-pizzeria)**: Un sistema completo de gestión de tareas que incluye roles de usuario (admin y repartidor), CRUD, y reportes.
-- **[Aplicación de Entregas de Pedidos - En proceso](https://github.com/OAODesarrollador/entregas-pedidos)**: Aplicación para la administración de entregas de pedidos con funcionalidad de carrito de compras, autenticación y gestión de estados de pedidos.
+- **[Gestión de Pedidos para Pizzería - En proceso](https://github.com/OAODesarrollador/FullStackPizzeria)**: Un sistema completo de gestión de tareas que incluye roles de usuario (admin y repartidor), CRUD, y reportes.
+https://github.com/OAODesarrollador/integradorUno.github.io.git
+- **[[Práctica integradora HTML-CSS-Javascript](https://github.com/OAODesarrollador/integradorUno.github.io)]**: Página de lista de productos, con ofertas y detalle de cada uno de ellos. 
 - **[Página personal - Experience Cloud - Salesforce](https://github.com/OAODesarrollador/PortfolioSalesforce)**: Página personal para aplicar algunos conocimientos en el desarrollo Frontend en salesforce, utilizando la Experience Cloud y aplicando LWC, APEX, Aura y Visualforce.
   
 Estos proyectos combinan un backend robusto con interfaces de usuario intuitivas y me han ayudado a desarrollar un enfoque integrado hacia el desarrollo fullstack.
