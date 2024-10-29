@@ -19,8 +19,7 @@
 
 ## 🌟 Proyectos Destacados
 - **[Gestión de Pedidos para Pizzería - En proceso](https://github.com/OAODesarrollador/FullStackPizzeria)**: Un sistema completo de gestión de tareas que incluye roles de usuario (admin y repartidor), CRUD, y reportes.
-https://github.com/OAODesarrollador/integradorUno.github.io.git
-- **[[Práctica integradora HTML-CSS-Javascript](https://github.com/OAODesarrollador/integradorUno.github.io)]**: Página de lista de productos, con ofertas y detalle de cada uno de ellos. 
+- **[Práctica integradora HTML-CSS-Javascript](https://github.com/OAODesarrollador/integradorUno.github.io)**: Página de lista de productos, con ofertas y detalle de cada uno de ellos. 
 - **[Página personal - Experience Cloud - Salesforce](https://github.com/OAODesarrollador/PortfolioSalesforce)**: Página personal para aplicar algunos conocimientos en el desarrollo Frontend en salesforce, utilizando la Experience Cloud y aplicando LWC, APEX, Aura y Visualforce.
   
 Estos proyectos combinan un backend robusto con interfaces de usuario intuitivas y me han ayudado a desarrollar un enfoque integrado hacia el desarrollo fullstack.
@@ -40,7 +39,7 @@ Este repositorio está abierto a colaboraciones. No dudes en hacer un **fork** d
 
 ## 🌐 Conéctate conmigo
 
-- **LinkedIn:** [LinkedIn Perfil]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/oscar-alejandro-ortiz-programadorpython/))
+- **[LinkedIn Perfil](https://www.linkedin.com/in/oscar-alejandro-ortiz-programadorpython/)**
 - **Email:** oaodesarrollador@gmail.com
 ---
 
