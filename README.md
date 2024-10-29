@@ -11,8 +11,8 @@
 ¡Hola! Soy un desarrollador **FullStack** con una pasión por el desarrollo de aplicaciones y la resolución de problemas. Este espacio es un reflejo de mi progreso en tecnologías web y mi capacidad para construir soluciones que aborden necesidades reales. Aquí encontrarás una mezcla de proyectos frontend y backend que muestran mis habilidades y mi enfoque en el aprendizaje constante.
 
 ## 🚀 Tecnologías y Herramientas
-- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
-- **Backend:** Node.js, Express, Python, SQL, NoSQL
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Svelte
+- **Backend:** Node.js, Express, Python, SQL, NoSQL, Postman
 - **Bases de Datos:** PostgreSQL, MongoDB
 - **Salesforce:** LWC, Visualforce, APEX
 - **Otros:** Git/GitHub para control de versiones, Docker para la contenedorización de aplicaciones, Prisma para ORM
