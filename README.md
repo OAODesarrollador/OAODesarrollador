@@ -18,6 +18,7 @@
 - **Otros:** Git/GitHub para control de versiones, Docker para la contenedorización de aplicaciones, Prisma para ORM
 
 ## 🌟 Proyectos Destacados
+- **[Página Personal con Three.js - En Proceso](https://portfolio3d-k5ma.onrender.com/)**: Estoy relizando un portfolio, en el cual estoy poniendo en práctica lo que voy aprendiendo de three.js. Aplicando algunas tecnologías ya adquirodas anteriormente.
 - **[Gestión de Pedidos para Pizzería - En proceso](https://github.com/OAODesarrollador/FullStackPizzeria)**: Un sistema completo de gestión de tareas que incluye roles de usuario (admin y repartidor), CRUD, y reportes.
 - **[Práctica integradora HTML-CSS-Javascript](https://github.com/OAODesarrollador/integradorUno.github.io)**: Página de lista de productos, con ofertas y detalle de cada uno de ellos. 
 - **[Página personal - Experience Cloud - Salesforce](https://github.com/OAODesarrollador/PortfolioSalesforce)**: Página personal para aplicar algunos conocimientos en el desarrollo Frontend en salesforce, utilizando la Experience Cloud y aplicando LWC, APEX, Aura y Visualforce.
