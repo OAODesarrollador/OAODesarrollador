@@ -14,12 +14,6 @@
 - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Svelte
 - **Backend:** Node.js, Express, Python, SQL, NoSQL, Postman
 - **Bases de Datos:** PostgreSQL, MongoDB, SQL
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-</p>
 - **Salesforce:** LWC, Visualforce, APEX
 - **Otros:** Git/GitHub para control de versiones, Docker para la contenedorización de aplicaciones, Prisma para ORM
 
