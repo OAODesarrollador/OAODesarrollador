@@ -72,8 +72,8 @@ Me apasiona combinar **tecnologías modernas con innovación visual** (3D con Th
 ## 🌟 Proyectos destacados
 <div align="center">
 
-| Proyecto | Demo | Descripción | GIF |
-|----------|------|-------------|-----|
+| Proyecto | Demo | Descripción | Vista Previa |
+|----------|------|-------------|--------------|
 | 🎨 **Portfolio 3D** | [🔗 Demo](https://portfolio3d-k5ma.onrender.com/) | Sitio en construcción con animaciones interactivas en **Three.js**. | ![Portfolio 3D](https://github.com/OAODesarrollador/OAODesarrollador/blob/main/portfolio3d.gif) |
 | 🍕 **FullStack Pizzería** | [🔗 Repo](https://github.com/OAODesarrollador/FullStackPizzeria) | Sistema de pedidos con roles, CRUD y reportes. | ![Pizzería](https://github.com/OAODesarrollador/OAODesarrollador/blob/main/iconos/pizzeria.gif) |
 | 🛍️ **Integrador Frontend** | [🔗 Repo](https://github.com/OAODesarrollador/integradorUno.github.io) | Catálogo de productos con ofertas y detalles. | ![Integrador](https://github.com/OAODesarrollador/OAODesarrollador/blob/main/iconos/ProyectoIntegrador.gif) |
