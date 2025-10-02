@@ -74,7 +74,7 @@ Me apasiona combinar **tecnologías modernas con innovación visual** (3D con Th
 
 | Proyecto | Demo | Descripción | GIF |
 |----------|------|-------------|-----|
-| 🎨 **Portfolio 3D** | [🔗 Demo](https://portfolio3d-k5ma.onrender.com/) | Sitio en construcción con animaciones interactivas en **Three.js**. | ![Portfolio 3D](https://github.com/OAODesarrollador/Portfolio3D/blob/main/demo.gif) |
+| 🎨 **Portfolio 3D** | [🔗 Demo](https://portfolio3d-k5ma.onrender.com/) | Sitio en construcción con animaciones interactivas en **Three.js**. | ![Portfolio 3D](https://github.com/OAODesarrollador/Portfolio3D/blob/main/potfolio3d.gif) |
 | 🍕 **FullStack Pizzería** | [🔗 Repo](https://github.com/OAODesarrollador/FullStackPizzeria) | Sistema de pedidos con roles, CRUD y reportes. | ![Pizzería](https://github.com/OAODesarrollador/FullStackPizzeria/blob/main/demo.gif) |
 | 🛍️ **Integrador Frontend** | [🔗 Repo](https://github.com/OAODesarrollador/integradorUno.github.io) | Catálogo de productos con ofertas y detalles. | ![Integrador](https://github.com/OAODesarrollador/integradorUno.github.io/blob/main/demo.gif) |
 | ☁️ **Salesforce Portfolio** | [🔗 Repo](https://github.com/OAODesarrollador/PortfolioSalesforce) | Experimentos con **Experience Cloud, LWC, APEX y Visualforce**. | ![Salesforce](https://github.com/OAODesarrollador/PortfolioSalesforce/blob/main/demo.gif) |
