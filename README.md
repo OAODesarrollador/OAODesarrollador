@@ -3,7 +3,7 @@
 <img src="/iconos/LogoSinFondo.png" alt="Logo" width="160"/>
 
 # 🚀 Oscar Alejandro Ortiz  
-**FullStack Developer | Salesforce | 3D Web Innovator**
+**FullStack Developer | Salesforce Developer | 3D Web Innovator**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-OscarOrtiz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/oscar-alejandro-ortiz-programadorpython/)
 [![GitHub](https://img.shields.io/badge/GitHub-OAODesarrollador-black?style=flat&logo=github)](https://github.com/OAODesarrollador)
