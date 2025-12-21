@@ -5,7 +5,7 @@
 # 🚀 Oscar Alejandro Ortiz  
 **FullStack Developer | Salesforce Developer | 3D Web Innovator**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OscarOrtiz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/oscar-alejandro-ortiz-programadorpython/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-OscarOrtiz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/oscar-alejandro-ortiz-desarrollador-fullstack/))
 [![GitHub](https://img.shields.io/badge/GitHub-OAODesarrollador-black?style=flat&logo=github)](https://github.com/OAODesarrollador)
 [![Email](https://img.shields.io/badge/Email-oaodesarrollador%40gmail.com-red?style=flat&logo=gmail)](mailto:oaodesarrollador@gmail.com)
 
