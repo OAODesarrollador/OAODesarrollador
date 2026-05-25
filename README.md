@@ -142,16 +142,11 @@ Three.js y React Three Fiber forman parte de mi diferencial visual, pero mi posi
 
 ## GitHub Insights
 
-<div align="center">
+| Actividad | Lenguajes |
+|---|---|
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OAODesarrollador&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/OAODesarrollador) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OAODesarrollador&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/OAODesarrollador?tab=repositories) |
 
-<img src="https://github-readme-stats.vercel.app/api?username=OAODesarrollador&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OAODesarrollador&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=OAODesarrollador&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170">
-
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OAODesarrollador&theme=tokyonight&hide_border=true)](https://github.com/OAODesarrollador)
 
 ---
 
