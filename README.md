@@ -144,11 +144,12 @@ Three.js y React Three Fiber forman parte de mi diferencial visual, pero mi posi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OAODesarrollador&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=OAODesarrollador&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OAODesarrollador&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=OAODesarrollador&theme=tokyonight)
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OAODesarrollador&layout=compact&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=OAODesarrollador&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170">
 
 </div>
 
